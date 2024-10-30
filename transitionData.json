@@ -1,0 +1,594 @@
+[
+	{
+		"web_trans": {
+			"web-translation": [
+				{
+					"@same": "true",
+					"key": "英语",
+					"trans": [
+						{
+							"summary": {
+								"line": [
+									"... 语文（中文）le chinois <b>英语</b><b>anglais</b> 数学mathématiques ..."
+								]
+							},
+							"value": "anglais",
+							"support": 4269,
+							"url": ""
+						},
+						{
+							"summary": {
+								"line": [
+									"<b>英语</b>中使用的标点符号主要有下面这些： 句点：英国<b>英语</b>（BrE）：FullStop；美国<b>英语</b>（<b>AmE</b>）：Period，“.” 问号：QuestionMark，“?"
+								]
+							},
+							"value": "AmE",
+							"support": 24,
+							"url": ""
+						},
+						{
+							"summary": {
+								"line": [
+									"... 法语 Fran 镚is <b>英语</b> <b>L’anglais</b> 翻译 Traduction ..."
+								]
+							},
+							"value": "L’anglais",
+							"support": 16,
+							"url": ""
+						},
+						{
+							"summary": {
+								"line": [
+									"... 汉语\tle mandarin <b>英语</b>\tl'anglais 数学\tmathématique ..."
+								]
+							},
+							"value": "L'anglais",
+							"support": 12,
+							"url": ""
+						}
+					]
+				},
+				{
+					"key": "商务英语",
+					"trans": [
+						{
+							"value": "BEC"
+						},
+						{
+							"value": "Anglais des affaires"
+						},
+						{
+							"value": "Langue anglaise pour commerce commercial"
+						},
+						{
+							"value": "L’anglais commercial"
+						}
+					]
+				},
+				{
+					"key": "剑桥商务英语",
+					"trans": [
+						{
+							"value": "BEC"
+						},
+						{
+							"value": "BEC BEC"
+						},
+						{
+							"value": "bec higher"
+						}
+					]
+				},
+				{
+					"key": "英语语法",
+					"trans": [
+						{
+							"value": "Grammaire anglaise"
+						},
+						{
+							"value": "Grammaireanglaise"
+						}
+					]
+				},
+				{
+					"key": "剑桥商务英语证书",
+					"trans": [
+						{
+							"value": "BEC"
+						}
+					]
+				},
+				{
+					"key": "剑桥商务英语考试",
+					"trans": [
+						{
+							"value": "BEC"
+						}
+					]
+				},
+				{
+					"key": "英语口语",
+					"trans": [
+						{
+							"value": "Anglais oral"
+						},
+						{
+							"value": "l'expression orale en anglais"
+						},
+						{
+							"value": "TES"
+						},
+						{
+							"value": "Anglaisoral"
+						}
+					]
+				},
+				{
+					"key": "外贸英语函电",
+					"trans": [
+						{
+							"value": "Correspondance commerciale en anglais"
+						},
+						{
+							"value": "Correspontances et télécommunications de commerce extérieur"
+						},
+						{
+							"value": "Lettres et télécommunications en l’anglais pour commerce extérieur"
+						},
+						{
+							"value": "Corre ondance commerciale en anglais"
+						}
+					]
+				},
+				{
+					"key": "英语写作",
+					"trans": [
+						{
+							"value": "Technique d’écriture en anglais"
+						},
+						{
+							"value": "l’expression écrite en anglais"
+						},
+						{
+							"value": "Technique d'écriture en anglais"
+						},
+						{
+							"value": "Technique d''écriture en anglais"
+						}
+					]
+				},
+				{
+					"key": "英语词汇学",
+					"trans": [
+						{
+							"value": "Lexicologie anglaise"
+						},
+						{
+							"value": "le vocabulaire en anglais"
+						},
+						{
+							"value": "Lexicologie de l’anglais"
+						},
+						{
+							"value": "Lexicologieanglaise"
+						}
+					]
+				}
+			]
+		},
+		"blng_sents_part": {
+			"sentence-count": 5,
+			"sentence-pair": [
+				{
+					"sentence": "我会说<b>英语</b>，华语，马来语和法语。",
+					"sentence-translation-speech": "Je+parle+anglais%2C+chinois%2C+malais+et+fran%C3%A7ais.&le=fr",
+					"sentence-eng": "我会说<b>英语</b>，华语，马来语和法语。",
+					"sentence-translation": "Je parle anglais, chinois, malais et français.",
+					"speech-size": "12kb",
+					"url": "youdao"
+				},
+				{
+					"sentence": "是的，我能讲<b>英语</b>和法语。",
+					"sentence-translation-speech": "Oui%2C+je+parle+anglais+et+francais.&le=fr",
+					"sentence-eng": "是的，我能讲<b>英语</b>和法语。",
+					"sentence-translation": "Oui, je parle anglais et francais.",
+					"speech-size": "9kb",
+					"url": "youdao"
+				},
+				{
+					"sentence": "（劳驾，您说<b>英语</b>吗？）更有效果一些！",
+					"sentence-translation-speech": "Pardon%2C+est-+ce+que+vous+parlez+anglais%3F&le=fr",
+					"sentence-eng": "（劳驾，您说<b>英语</b>吗？）更有效果一些！",
+					"sentence-translation": "Pardon, est- ce que vous parlez anglais?",
+					"speech-size": "10kb",
+					"url": "youdao"
+				}
+			],
+			"more": "blng_sents"
+		},
+		"input": "英语",
+		"cf": {
+			"source": {
+				"name": "现代法汉汉法词典",
+				"url": "https://www.youdao.com/help/dict/source/001"
+			},
+			"word": [
+				{
+					"trs": [
+						{
+							"tr": [
+								{
+									"l": {
+										"i": [
+											"anglais"
+										]
+									}
+								}
+							]
+						}
+					],
+					"phone": "yīngyŭ",
+					"return-phrase": {
+						"l": {
+							"i": "英语"
+						}
+					}
+				}
+			]
+		},
+		"baike": {
+			"summarys": [
+				{
+					"summary": "\"英语\"是个多义词，它可以指英语（印欧语系-日耳曼语族下语言）,英语（人民教育出版社出版图书）,英语（高等教育出版社出版图书）,英语（北京大学出版图书段永华著）,英语（中国普通高等学校本科专业）。",
+					"key": "英语"
+				}
+			],
+			"source": {
+				"name": "百度百科",
+				"url": ""
+			}
+		},
+		"meta": {
+			"input": "英语",
+			"guessLanguage": "zh",
+			"isHasSimpleDict": "1",
+			"le": "fr",
+			"lang": "fr",
+			"dicts": [
+				"web_trans",
+				"blng_sents_part",
+				"cf",
+				"baike",
+				"meta",
+				"simple",
+				"newhh"
+			]
+		},
+		"le": "fr",
+		"simple": {
+			"query": "英语",
+			"word": [
+				{
+					"return-phrase": "英语"
+				}
+			]
+		},
+		"lang": "fr",
+		"newhh": {
+			"dataList": [
+				{
+					"pinyin": "yīngyǔ",
+					"sense": [
+						{
+							"def": [
+								"英、美等国的通用语言，属印欧语系日耳曼语族，文字采用拉丁字母。是联合国工作语言之一。"
+							],
+							"cat": "名词"
+						}
+					],
+					"word": "英语"
+				}
+			],
+			"source": {
+				"name": "《现代汉语规范词典》"
+			},
+			"word": "英语"
+		}
+	},
+	{
+		"web_trans": {
+			"web-translation": [
+				{
+					"@same": "true",
+					"key": "英语",
+					"trans": [
+						{
+							"summary": {
+								"line": [
+									"... 语文（中文）le chinois <b>英语</b><b>anglais</b> 数学mathématiques ..."
+								]
+							},
+							"value": "anglais",
+							"support": 4269,
+							"url": ""
+						},
+						{
+							"summary": {
+								"line": [
+									"<b>英语</b>中使用的标点符号主要有下面这些： 句点：英国<b>英语</b>（BrE）：FullStop；美国<b>英语</b>（<b>AmE</b>）：Period，“.” 问号：QuestionMark，“?"
+								]
+							},
+							"value": "AmE",
+							"support": 24,
+							"url": ""
+						},
+						{
+							"summary": {
+								"line": [
+									"... 法语 Fran 镚is <b>英语</b> <b>L’anglais</b> 翻译 Traduction ..."
+								]
+							},
+							"value": "L’anglais",
+							"support": 16,
+							"url": ""
+						},
+						{
+							"summary": {
+								"line": [
+									"... 汉语\tle mandarin <b>英语</b>\tl'anglais 数学\tmathématique ..."
+								]
+							},
+							"value": "L'anglais",
+							"support": 12,
+							"url": ""
+						}
+					]
+				},
+				{
+					"key": "商务英语",
+					"trans": [
+						{
+							"value": "BEC"
+						},
+						{
+							"value": "Anglais des affaires"
+						},
+						{
+							"value": "Langue anglaise pour commerce commercial"
+						},
+						{
+							"value": "L’anglais commercial"
+						}
+					]
+				},
+				{
+					"key": "剑桥商务英语",
+					"trans": [
+						{
+							"value": "BEC"
+						},
+						{
+							"value": "BEC BEC"
+						},
+						{
+							"value": "bec higher"
+						}
+					]
+				},
+				{
+					"key": "英语语法",
+					"trans": [
+						{
+							"value": "Grammaire anglaise"
+						},
+						{
+							"value": "Grammaireanglaise"
+						}
+					]
+				},
+				{
+					"key": "剑桥商务英语证书",
+					"trans": [
+						{
+							"value": "BEC"
+						}
+					]
+				},
+				{
+					"key": "剑桥商务英语考试",
+					"trans": [
+						{
+							"value": "BEC"
+						}
+					]
+				},
+				{
+					"key": "英语口语",
+					"trans": [
+						{
+							"value": "Anglais oral"
+						},
+						{
+							"value": "l'expression orale en anglais"
+						},
+						{
+							"value": "TES"
+						},
+						{
+							"value": "Anglaisoral"
+						}
+					]
+				},
+				{
+					"key": "外贸英语函电",
+					"trans": [
+						{
+							"value": "Correspondance commerciale en anglais"
+						},
+						{
+							"value": "Correspontances et télécommunications de commerce extérieur"
+						},
+						{
+							"value": "Lettres et télécommunications en l’anglais pour commerce extérieur"
+						},
+						{
+							"value": "Corre ondance commerciale en anglais"
+						}
+					]
+				},
+				{
+					"key": "英语写作",
+					"trans": [
+						{
+							"value": "Technique d’écriture en anglais"
+						},
+						{
+							"value": "l’expression écrite en anglais"
+						},
+						{
+							"value": "Technique d'écriture en anglais"
+						},
+						{
+							"value": "Technique d''écriture en anglais"
+						}
+					]
+				},
+				{
+					"key": "英语词汇学",
+					"trans": [
+						{
+							"value": "Lexicologie anglaise"
+						},
+						{
+							"value": "le vocabulaire en anglais"
+						},
+						{
+							"value": "Lexicologie de l’anglais"
+						},
+						{
+							"value": "Lexicologieanglaise"
+						}
+					]
+				}
+			]
+		},
+		"blng_sents_part": {
+			"sentence-count": 5,
+			"sentence-pair": [
+				{
+					"sentence": "我会说<b>英语</b>，华语，马来语和法语。",
+					"sentence-translation-speech": "Je+parle+anglais%2C+chinois%2C+malais+et+fran%C3%A7ais.&le=fr",
+					"sentence-eng": "我会说<b>英语</b>，华语，马来语和法语。",
+					"sentence-translation": "Je parle anglais, chinois, malais et français.",
+					"speech-size": "12kb",
+					"url": "youdao"
+				},
+				{
+					"sentence": "是的，我能讲<b>英语</b>和法语。",
+					"sentence-translation-speech": "Oui%2C+je+parle+anglais+et+francais.&le=fr",
+					"sentence-eng": "是的，我能讲<b>英语</b>和法语。",
+					"sentence-translation": "Oui, je parle anglais et francais.",
+					"speech-size": "9kb",
+					"url": "youdao"
+				},
+				{
+					"sentence": "（劳驾，您说<b>英语</b>吗？）更有效果一些！",
+					"sentence-translation-speech": "Pardon%2C+est-+ce+que+vous+parlez+anglais%3F&le=fr",
+					"sentence-eng": "（劳驾，您说<b>英语</b>吗？）更有效果一些！",
+					"sentence-translation": "Pardon, est- ce que vous parlez anglais?",
+					"speech-size": "10kb",
+					"url": "youdao"
+				}
+			],
+			"more": "blng_sents"
+		},
+		"input": "英语",
+		"cf": {
+			"source": {
+				"name": "现代法汉汉法词典",
+				"url": "https://www.youdao.com/help/dict/source/001"
+			},
+			"word": [
+				{
+					"trs": [
+						{
+							"tr": [
+								{
+									"l": {
+										"i": [
+											"anglais"
+										]
+									}
+								}
+							]
+						}
+					],
+					"phone": "yīngyŭ",
+					"return-phrase": {
+						"l": {
+							"i": "英语"
+						}
+					}
+				}
+			]
+		},
+		"baike": {
+			"summarys": [
+				{
+					"summary": "\"英语\"是个多义词，它可以指英语（印欧语系-日耳曼语族下语言）,英语（人民教育出版社出版图书）,英语（高等教育出版社出版图书）,英语（北京大学出版图书段永华著）,英语（中国普通高等学校本科专业）。",
+					"key": "英语"
+				}
+			],
+			"source": {
+				"name": "百度百科",
+				"url": ""
+			}
+		},
+		"meta": {
+			"input": "英语",
+			"guessLanguage": "zh",
+			"isHasSimpleDict": "1",
+			"le": "fr",
+			"lang": "fr",
+			"dicts": [
+				"web_trans",
+				"blng_sents_part",
+				"cf",
+				"baike",
+				"meta",
+				"simple",
+				"newhh"
+			]
+		},
+		"le": "fr",
+		"simple": {
+			"query": "英语",
+			"word": [
+				{
+					"return-phrase": "英语"
+				}
+			]
+		},
+		"lang": "fr",
+		"newhh": {
+			"dataList": [
+				{
+					"pinyin": "yīngyǔ",
+					"sense": [
+						{
+							"def": [
+								"英、美等国的通用语言，属印欧语系日耳曼语族，文字采用拉丁字母。是联合国工作语言之一。"
+							],
+							"cat": "名词"
+						}
+					],
+					"word": "英语"
+				}
+			],
+			"source": {
+				"name": "《现代汉语规范词典》"
+			},
+			"word": "英语"
+		}
+	}
+]
