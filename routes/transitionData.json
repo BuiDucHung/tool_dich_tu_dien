@@ -1,0 +1,1805 @@
+[
+	{
+		"Phiên âm (simple)": {
+			"query": "english",
+			"word": [
+				{
+					"usphone": "ˈɪŋɡlɪʃ",
+					"ukphone": "ˈɪŋɡlɪʃ",
+					"ukspeech": "English&type=1",
+					"return-phrase": "English",
+					"usspeech": "English&type=2",
+					"collegeExamVoice": {
+						"speechWord": "English"
+					}
+				}
+			]
+		},
+		"Ngắn gọn (word_info)": {
+			"return-phrase": "English",
+			"sense": [
+				"adj. 英文的；英国的；英国人的",
+				"n. 英语；英文；英国人",
+				"vt. 把……译成英语"
+			]
+		},
+		"Từ điển (collins)": {
+			"collins_entries": [
+				{
+					"entries": {
+						"entry": [
+							{
+								"tran_entry": [
+									{
+										"pos_entry": {
+											"pos": "N-UNCOUNT",
+											"pos_tips": "不可数名词"
+										},
+										"tran": "<b>English</b> is the language spoken by people who live in Great Britain and Ireland, the United States, Canada, Australia, and many other countries. 英语"
+									}
+								]
+							},
+							{
+								"tran_entry": [
+									{
+										"pos_entry": {
+											"pos": "ADJ",
+											"pos_tips": "形容词"
+										},
+										"exam_sents": {
+											"sent": [
+												{
+													"chn_sent": "…英格兰人的生活方式。",
+													"eng_sent": "...the English way of life."
+												}
+											]
+										},
+										"tran": "<b>English</b> means belonging or relating to England, or to its people or language. It is also often used to mean belonging or relating to Great Britain, although many people object to this. 英格兰 (人) 的; 英国 (人) 的; 英语的"
+									}
+								]
+							},
+							{
+								"tran_entry": [
+									{
+										"pos_entry": {
+											"pos": "N-PLURAL",
+											"pos_tips": "复数型名词"
+										},
+										"exam_sents": {
+											"sent": [
+												{
+													"chn_sent": "人们常说英格兰人保守。",
+													"eng_sent": "It is often said that the English are reserved."
+												}
+											]
+										},
+										"tran": "<b>The English</b> are English people. 英格兰人"
+									}
+								]
+							}
+						]
+					},
+					"phonetic": "ˈɪŋɡlɪʃ",
+					"basic_entries": {
+						"basic_entry": [
+							{
+								"cet": "TEM4",
+								"headword": "English"
+							}
+						]
+					},
+					"headword": "English",
+					"star": "4"
+				}
+			]
+		},
+		"Cụm từ: (网络释义)": {
+			"web-translation": [
+				{
+					"key": "Johnny English",
+					"key-speech": "Johnny+English",
+					"trans": [
+						{
+							"value": "憨豆特工"
+						},
+						{
+							"value": "憨豆特派员"
+						},
+						{
+							"value": "特务戆J"
+						}
+					]
+				},
+				{
+					"key": "British English",
+					"key-speech": "British+English",
+					"trans": [
+						{
+							"value": "英式英文"
+						}
+					]
+				},
+				{
+					"key": "English name",
+					"key-speech": "English+name",
+					"trans": [
+						{
+							"value": "英文名"
+						},
+						{
+							"value": "英文姓名"
+						},
+						{
+							"value": "英文名称"
+						},
+						{
+							"value": "英文名字"
+						}
+					]
+				},
+				{
+					"key": "American English",
+					"key-speech": "American+English",
+					"trans": [
+						{
+							"value": "美语"
+						},
+						{
+							"value": "美式英文"
+						}
+					]
+				},
+				{
+					"key": "The English Patient",
+					"key-speech": "The+English+Patient",
+					"trans": [
+						{
+							"value": "英国病人"
+						},
+						{
+							"value": "别问我是谁"
+						}
+					]
+				},
+				{
+					"key": "Old English Sheepdog",
+					"key-speech": "Old+English+Sheepdog",
+					"trans": [
+						{
+							"value": "英国古代牧羊犬"
+						},
+						{
+							"value": "古代英国牧羊犬"
+						},
+						{
+							"value": "牧羊犬"
+						},
+						{
+							"value": "古英国牧羊犬"
+						}
+					]
+				},
+				{
+					"key": "Johnny English Reborn",
+					"key-speech": "Johnny+English+Reborn",
+					"trans": [
+						{
+							"value": "憨豆特工"
+						},
+						{
+							"value": "憨豆特派员"
+						},
+						{
+							"value": "特务戆J之救国大业"
+						},
+						{
+							"value": "二度出包"
+						}
+					]
+				},
+				{
+					"key": "ENGLISH SETTER",
+					"key-speech": "ENGLISH+SETTER",
+					"trans": [
+						{
+							"value": "英国长毛猎犬"
+						},
+						{
+							"value": "英国塞特犬"
+						},
+						{
+							"value": "英国雪达犬"
+						}
+					]
+				},
+				{
+					"key": "English opening",
+					"key-speech": "English+opening",
+					"trans": [
+						{
+							"value": "英格兰开局"
+						},
+						{
+							"value": "英国式开局"
+						}
+					]
+				}
+			]
+		},
+		"Phiên dịch chuyên nghiệp (专业释义)": {
+			"summary": {
+				"sources": {
+					"source": {
+						"site": "NoteExpress",
+						"url": "https://dict.youdao.com"
+					}
+				},
+				"text": "以上统计来源于2,447,534篇论文数据，部分数据来源于"
+			},
+			"co-add": "https://dict.youdao.com",
+			"total": "2,447,543",
+			"entries": [
+				{
+					"entry": {
+						"major": "语言学",
+						"trs": [
+							{
+								"tr": {
+									"nat": "英语",
+									"chnSent": "<b>英语</b>是介词的语言。",
+									"cite": "25584",
+									"docTitle": "中国学生作文中的介词回避现象 ",
+									"engSent": "<b>English</b> is a language of prepositions.",
+									"url": "youdao"
+								}
+							},
+							{
+								"tr": {
+									"nat": "英文",
+									"chnSent": "押韵是<b>英文</b>诗歌的灵魂所在,也是<b>英文</b>诗歌的难点所在。",
+									"cite": "1048",
+									"docTitle": "英文诗歌的押韵分析—《中国教育技术装备》—2009年第21期—龙源期刊网",
+									"engSent": "The Rhyme is both the soul and the difficulty in <b>English</b> Poetry.",
+									"url": "youdao"
+								}
+							},
+							{
+								"tr": {
+									"nat": "正",
+									"chnSent": "教学评价<b>正</b>逐步进入一个新的时代，其热点话题之一是档案袋评价，这种新型评价制度能促进学生的全面和持续发展。",
+									"cite": "163",
+									"docTitle": "英语写作档案袋在西北欠发达地区初中的应用 ",
+									"engSent": "The new assessment system is entering <b>English</b> writingclassroom in China, which can promote learners’overall development and their sustaineddevelopment.",
+									"url": "youdao"
+								}
+							}
+						],
+						"num": 3
+					}
+				},
+				{
+					"entry": {
+						"major": "文学",
+						"trs": [
+							{
+								"tr": {
+									"nat": "英语",
+									"chnSent": "同样，在<b>英语</b>世界里传播范围最广的唐诗选本也是它。",
+									"cite": "590",
+									"docTitle": "论宾纳英译《唐诗三百首》 （研究生论文）",
+									"engSent": "Moreover, it is the most widespread and best-known anthology of T'ang poems in the <b>English</b>-speaking world.",
+									"url": "youdao"
+								}
+							},
+							{
+								"tr": {
+									"nat": "英文",
+									"chnSent": "严歌苓还用<b>英文</b>写作，尝试打开双语写作的空间。",
+									"cite": "179",
+									"docTitle": "严歌苓小说论 ",
+									"engSent": "She has also written in <b>English</b> and attempted to open up the way to bi-lingual writing.",
+									"url": "youdao"
+								}
+							}
+						],
+						"num": 2
+					}
+				},
+				{
+					"entry": {
+						"major": "历史学",
+						"trs": [
+							{
+								"tr": {
+									"nat": "英国",
+									"chnSent": "<b>英国</b>贵族是一个封闭性较强的社会阶层，不是一个“开放的贵族”。",
+									"cite": "193",
+									"docTitle": "16",
+									"engSent": "Therefore, the <b>English</b> nobility is a very self-contained stratum instead of an \"open nobility\".",
+									"url": "youdao"
+								}
+							}
+						],
+						"num": 1
+					}
+				},
+				{
+					"entry": {
+						"major": "体育",
+						"trs": [
+							{
+								"tr": {
+									"nat": "使(球)侧旋，侧旋(球)",
+									"cite": "0"
+								}
+							}
+						],
+						"num": 1
+					}
+				},
+				{
+					"entry": {
+						"major": "印刷、复印技术",
+						"trs": [
+							{
+								"tr": {
+									"nat": "14点西文活字",
+									"cite": "0"
+								}
+							}
+						],
+						"num": 1
+					}
+				},
+				{
+					"entry": {
+						"major": "艺术学",
+						"trs": [
+							{
+								"tr": {
+									"nat": "英国国会大厦",
+									"cite": "0"
+								}
+							}
+						],
+						"num": 1
+					}
+				}
+			]
+		},
+		"Phiên dịch anh-anh (英英释义)": {
+			"source": {
+				"name": "WordNet",
+				"url": "https://wordnet.princeton.edu"
+			},
+			"word": {
+				"trs": [
+					{
+						"pos": "n.",
+						"tr": [
+							{
+								"tran": "an Indo-European language belonging to the West Germanic branch; the official language of Britain and the United States and most of the commonwealth countries",
+								"similar-words": [
+									"English language"
+								]
+							},
+							{
+								"tran": "the people of England",
+								"similar-words": [
+									"English people"
+								]
+							},
+							{
+								"tran": "the discipline that studies the English language and literature"
+							},
+							{
+								"tran": "(sports) the spin given to a ball by striking it on one side or releasing it with a sharp twist",
+								"similar-words": [
+									"side"
+								]
+							}
+						]
+					},
+					{
+						"pos": "adj.",
+						"tr": [
+							{
+								"tran": "of or relating to or characteristic of England or its culture or people"
+							},
+							{
+								"tran": "of or relating to the English language"
+							}
+						]
+					}
+				],
+				"phone": "'iŋɡliʃ",
+				"speech": "english",
+				"return-phrase": "english"
+			}
+		},
+		"Ví dụ song ngữ (双语例句)": {
+			"sentence-count": 6,
+			"sentence-pair": [
+				{
+					"sentence": "He speaks excellent English.",
+					"sentence-eng": "He speaks excellent <b>English</b>.",
+					"sentence-translation": "他英语说得棒极了。",
+					"speech-size": "8kb",
+					"source": "《牛津词典》",
+					"url": "https://《牛津词典》/",
+					"sentence-speech": "He+speaks+excellent+English.&le=eng"
+				},
+				{
+					"sentence": "They speak very precise English.",
+					"sentence-eng": "They speak very precise <b>English</b>.",
+					"sentence-translation": "他们说非常标准的英语。",
+					"speech-size": "9kb",
+					"source": "《柯林斯英汉双解大词典》",
+					"url": "https://《柯林斯英汉双解大词典》/",
+					"sentence-speech": "They+speak+very+precise+English.&le=eng"
+				},
+				{
+					"sentence": "She speaks perfect English.",
+					"sentence-eng": "She speaks perfect <b>English</b>.",
+					"sentence-translation": "她讲一口地道的英语。",
+					"speech-size": "7kb",
+					"source": "《牛津词典》",
+					"url": "https://《牛津词典》/",
+					"sentence-speech": "She+speaks+perfect+English.&le=eng"
+				}
+			],
+			"more": "blng_sents",
+			"trs-classify": [
+				{
+					"proportion": "100%",
+					"tr": "全部"
+				},
+				{
+					"proportion": "74.0%",
+					"tr": "英语"
+				},
+				{
+					"proportion": "16.3%",
+					"tr": "英文"
+				},
+				{
+					"proportion": "6.2%",
+					"tr": "英国的"
+				},
+				{
+					"proportion": "1.9%",
+					"tr": "英格兰的"
+				},
+				{
+					"proportion": "0.8%",
+					"tr": "英格兰人"
+				},
+				{
+					"proportion": "0.8%",
+					"tr": "英"
+				}
+			]
+		},
+		"Ví dụ câu gốc (原声例句)": {
+			"sentence-count": 6,
+			"more": "media_sents",
+			"query": "english",
+			"sent": [
+				{
+					"@mediatype": "audio",
+					"snippets": {
+						"snippet": [
+							{
+								"streamUrl": "https://dict.youdao.com/pureaudio?docid=4940556271071372151",
+								"duration": "11000",
+								"swf": "",
+								"name": "special.2010.02.18",
+								"source": "VOA",
+								"win8": "https://dict.youdao.com/pureaudio?docid=4940556271071372151&dist=win8"
+							}
+						]
+					},
+					"speech-size": "38kb",
+					"eng": "Non-native <b>English</b> speakers take the test to demonstrate their <b>English</b> skills when seeking a new job or a promotion."
+				},
+				{
+					"@mediatype": "video",
+					"snippets": {
+						"snippet": [
+							{
+								"sourceUrl": "youdao",
+								"streamUrl": "movie=http://dict.youdao.com/purevideo?docid=-2986879800948084666&auto=true",
+								"swf": "http://shared.ydstatic.com/dict/4.0/simplayer.swf",
+								"imageUrl": "http://dict.youdao.com/pureimage?docid=-2986879800948084666",
+								"name": "耶鲁公开课",
+								"source": "弥尔顿课程节选"
+							}
+						]
+					},
+					"chn": "在弥尔顿之前没有英国诗人敢说,自己是被上帝选中去做诗人的。<br>",
+					"eng": "No <b>English</b> poet before Milton ever suggested that he had been chosen by God at birth to be a poet.<br>"
+				},
+				{
+					"@mediatype": "video",
+					"snippets": {
+						"snippet": [
+							{
+								"sourceUrl": "youdao",
+								"streamUrl": "movie=http://dict.youdao.com/purevideo?docid=-2271979548704617648&auto=true",
+								"swf": "http://shared.ydstatic.com/dict/4.0/simplayer.swf",
+								"imageUrl": "http://dict.youdao.com/pureimage?docid=-2271979548704617648",
+								"name": "There is 课堂",
+								"source": "SpeakingMax英语口语达人"
+							}
+						]
+					},
+					"chn": "因此，学习掌握这个句型以及其他所有的句型，你就可以一步一步说一口流利的英语。<br>",
+					"eng": "So study this, master this pattern as well as the other patterns, and you really can master <b>English</b> step by step.<br>"
+				},
+				{
+					"@mediatype": "audio",
+					"snippets": {
+						"snippet": [
+							{
+								"streamUrl": "https://dict.youdao.com/pureaudio?docid=1706726730835713582",
+								"duration": "11100",
+								"swf": "",
+								"name": "special.2009.10.16",
+								"source": "VOA",
+								"win8": "https://dict.youdao.com/pureaudio?docid=1706726730835713582&dist=win8"
+							}
+						]
+					},
+					"speech-size": "38kb",
+					"eng": "He wanted to make <b>English</b> easier to understand by listeners of VOA broadcasts whose native language was not <b>English</b>."
+				},
+				{
+					"@mediatype": "audio",
+					"snippets": {
+						"snippet": [
+							{
+								"streamUrl": "https://dict.youdao.com/pureaudio?docid=-2510622069194131476",
+								"duration": "12100",
+								"swf": "",
+								"name": "special.2010.06.17",
+								"source": "VOA",
+								"win8": "https://dict.youdao.com/pureaudio?docid=-2510622069194131476&dist=win8"
+							}
+						]
+					},
+					"speech-size": "49kb",
+					"eng": "\"The goal of the dual-language program is to teach low-income Hispanic children <b>English</b> -- good <b>English</b>, social <b>English</b> and academic <b>English</b>."
+				}
+			]
+		},
+		"Ví dụ có thẩm quyền (权威例句)": {
+			"sentence-count": 6,
+			"more": "auth_sents",
+			"sent": [
+				{
+					"score": 0.9831382632255554,
+					"speech": "Since+I+was+10+years+old%2C+I+have+loved+English+and+dreamed+of+becoming+a+teacher.+",
+					"speech-size": "24kb",
+					"source": "CNN: <i>Impact Your World</i>",
+					"url": "youdao",
+					"foreign": "Since I was 10 years old, I have loved <b>English</b> and dreamed of becoming a teacher. "
+				},
+				{
+					"score": 0.9831358790397644,
+					"speech": "There+is+little+question+that+people+living+in+America+should+know+how+to+speak+English.+",
+					"speech-size": "26kb",
+					"source": "CNN: <i>Why it's good to speak Spanish in America</i>",
+					"url": "youdao",
+					"foreign": "There is little question that people living in America should know how to speak <b>English</b>. "
+				},
+				{
+					"score": 0.983127772808075,
+					"speech": "Working+knowledge+with+excellent+drafting+skills+in+one+of+the+working+languages+%28English+or+French%29.+",
+					"speech-size": "29kb",
+					"source": "UNESCO: <i>Main Menu</i>",
+					"url": "youdao",
+					"foreign": "Working knowledge with excellent drafting skills in one of the working languages <b>(Englis</b>h or French). "
+				}
+			]
+		},
+		"Cụm từ từ điển (词典短语)": {
+			"word": "english",
+			"phrs": [
+				{
+					"headword": "in english",
+					"translation": "用英语"
+				},
+				{
+					"headword": "learn english",
+					"translation": "学习英语"
+				},
+				{
+					"headword": "speak english",
+					"translation": "说英语；讲英语"
+				},
+				{
+					"headword": "learning english",
+					"translation": "学习英语"
+				},
+				{
+					"headword": "english language",
+					"translation": "英文；英语语言学"
+				},
+				{
+					"headword": "english teacher",
+					"translation": "英语教师"
+				},
+				{
+					"headword": "oral english",
+					"translation": "英语口语"
+				},
+				{
+					"headword": "study english",
+					"translation": "学英语"
+				},
+				{
+					"headword": "spoken english",
+					"translation": "英语口语"
+				},
+				{
+					"headword": "english study",
+					"translation": "英语学习"
+				},
+				{
+					"headword": "business english",
+					"translation": "商用英文"
+				},
+				{
+					"headword": "speaking english",
+					"translation": "说英语"
+				},
+				{
+					"headword": "fluent english",
+					"translation": "流利英语；英语流利"
+				},
+				{
+					"headword": "english translation",
+					"translation": "英语翻译，英译本"
+				},
+				{
+					"headword": "english class",
+					"translation": "英文课；英语班"
+				},
+				{
+					"headword": "english version",
+					"translation": "英文版本；英译本"
+				},
+				{
+					"headword": "english reading",
+					"translation": "英语阅读"
+				},
+				{
+					"headword": "written english",
+					"translation": "书面英语"
+				},
+				{
+					"headword": "english corner",
+					"translation": "英语角"
+				},
+				{
+					"headword": "english speaking",
+					"translation": "英语口语；说英语的"
+				}
+			]
+		},
+		"Từ đồng nghĩa (同近义词)": {
+			"synos": [
+				{
+					"pos": "adj.",
+					"ws": [
+						"Royal",
+						"British"
+					],
+					"tran": "英文的；英国的；英国人的"
+				},
+				{
+					"pos": "n.",
+					"ws": [
+						"Anglo",
+						"British person"
+					],
+					"tran": "英语；英文；英国人；英格兰人"
+				}
+			],
+			"word": "english"
+		}
+	},
+	{
+		"Phiên âm (simple)": {
+			"query": "black",
+			"word": [
+				{
+					"usphone": "blæk",
+					"ukphone": "blæk",
+					"ukspeech": "black&type=1",
+					"return-phrase": "black",
+					"usspeech": "black&type=2",
+					"collegeExamVoice": {
+						"speechWord": "black"
+					}
+				}
+			]
+		},
+		"Ngắn gọn (word_info)": {
+			"return-phrase": "black",
+			"sense": [
+				"adj. 黑的，黑色的；黑色人种的",
+				"n. 黑，黑色；<冒犯>黑人",
+				"v. 使变黑，弄黑；<英>抵制"
+			]
+		},
+		"Từ điển (collins)": {
+			"collins_entries": [
+				{
+					"entries": {
+						"entry": [
+							{
+								"tran_entry": [
+									{
+										"pos_entry": {
+											"pos": "COLOR",
+											"pos_tips": "色彩词"
+										},
+										"exam_sents": {
+											"sent": [
+												{
+													"chn_sent": "她穿着一件白领黑上衣。",
+													"eng_sent": "She was wearing a black coat with a white collar."
+												},
+												{
+													"chn_sent": "他有着浓密乌黑的头发。",
+													"eng_sent": "He had thick black hair."
+												}
+											]
+										},
+										"tran": "Something that is <b>black</b> is of the darkest colour that there is, the colour of the sky at night when there is no light at all. 黑色的"
+									}
+								]
+							},
+							{
+								"tran_entry": [
+									{
+										"pos_entry": {
+											"pos": "ADJ",
+											"pos_tips": "形容词"
+										},
+										"exam_sents": {
+											"sent": [
+												{
+													"chn_sent": "他为黑人的权利而工作。",
+													"eng_sent": "He worked for the rights of black people."
+												},
+												{
+													"chn_sent": "谢里是黑人，个头高挑，身材苗条，说话柔声细气。",
+													"eng_sent": "Sherry is black, tall, slender and soft-spoken."
+												}
+											]
+										},
+										"tran": "A <b>black</b> person belongs to a race of people with dark skins, especially a race originally from Africa. 黑色人种的"
+									}
+								]
+							},
+							{
+								"tran_entry": [
+									{
+										"pos_entry": {
+											"pos": "N-COUNT",
+											"pos_tips": "可数名词"
+										},
+										"exam_sents": {
+											"sent": [
+												{
+													"chn_sent": "美国大约有三千一百万黑人。",
+													"eng_sent": "There are about thirty-one million blacks in the U.S."
+												}
+											]
+										},
+										"tran": "Black people are sometimes referred to as <b>blacks</b>. This use could cause offence. 黑人"
+									}
+								]
+							},
+							{
+								"tran_entry": [
+									{
+										"gram": "ADJ n, v n ADJ",
+										"pos_entry": {
+											"pos": "ADJ",
+											"pos_tips": "形容词"
+										},
+										"exam_sents": {
+											"sent": [
+												{
+													"chn_sent": "一杯红茶或黑咖啡不含任何卡路里。",
+													"eng_sent": "A cup of black tea or black coffee contains no calories."
+												}
+											]
+										},
+										"tran": "<b>Black</b> coffee or tea has no milk or cream added to it. (咖啡、茶) 不加牛奶或奶油的"
+									}
+								]
+							},
+							{
+								"tran_entry": [
+									{
+										"pos_entry": {
+											"pos": "ADJ",
+											"pos_tips": "形容词"
+										},
+										"box_extra": "强调",
+										"exam_sents": {
+											"sent": [
+												{
+													"chn_sent": "后来他说，那一天是他政治生涯中最糟糕的日子之一。",
+													"eng_sent": "It was, he said later, one of the blackest days of his political career."
+												}
+											]
+										},
+										"tran": "If you describe a situation as <b>black</b>, you are emphasizing that it is very bad indeed. 糟糕的"
+									}
+								]
+							},
+							{
+								"tran_entry": [
+									{
+										"pos_entry": {
+											"pos": "ADJ",
+											"pos_tips": "形容词"
+										},
+										"exam_sents": {
+											"sent": [
+												{
+													"chn_sent": "1975年末，她陷入极度消沉中。",
+													"eng_sent": "In late 1975, she fell into a black depression."
+												}
+											]
+										},
+										"tran": "If someone is in a <b>black</b> mood, they feel very miserable and depressed. 郁闷的"
+									}
+								]
+							},
+							{
+								"tran_entry": [
+									{
+										"pos_entry": {
+											"pos": "PHRASE",
+											"pos_tips": "习语"
+										},
+										"exam_sents": {
+											"sent": [
+												{
+													"chn_sent": "雷明顿在日本的经营现在没有赤字。",
+													"eng_sent": "Remington's operations in Japan are now in the black."
+												}
+											]
+										},
+										"tran": "If a person or an organization is <b>in the black</b>, they do not owe anyone any money. 不欠债"
+									}
+								]
+							}
+						]
+					},
+					"phonetic": "blæk",
+					"basic_entries": {
+						"basic_entry": [
+							{
+								"cet": "CET4 TEM4",
+								"headword": "black",
+								"wordforms": {
+									"wordform": [
+										{
+											"word": "blacking"
+										},
+										{
+											"word": "blacked"
+										},
+										{
+											"word": "blacker"
+										},
+										{
+											"word": "blacks"
+										},
+										{
+											"word": "blackest"
+										}
+									]
+								}
+							}
+						]
+					},
+					"headword": "black",
+					"star": "5"
+				}
+			]
+		},
+		"Cụm từ: (网络释义)": {
+			"web-translation": [
+				{
+					"@same": "true",
+					"key": "BLACK",
+					"key-speech": "BLACK",
+					"trans": [
+						{
+							"summary": {
+								"line": [
+									"<b>black</b>（<b>黑色</b>的）指铁的肤色。传统的铁艺首要运用于修建、家居、园林的装修。"
+								]
+							},
+							"value": "黑色",
+							"support": 7834,
+							"url": ""
+						},
+						{
+							"summary": {
+								"line": [
+									"... 甘地传 Gandhi <b>黑色的风采</b> Black 主演：  Shahrukh Khan ..."
+								]
+							},
+							"value": "黑色的风采",
+							"support": 2502,
+							"url": ""
+						},
+						{
+							"summary": {
+								"line": [
+									"新闻又多,又Black(<b>布莱克</b>) 是黑色的意思 white(怀特)是白色的意思作为一个BOSS,<b>布莱克</b>的实力绝对不容小觑,然而,它的1对1打法还是不太容易的,而且强制先手,..."
+								]
+							},
+							"value": "布莱克",
+							"support": 1854,
+							"url": ""
+						},
+						{
+							"summary": {
+								"line": [
+									"中国古制服色之玄衣ð«¸裳— 探「玄「ð«¸之文化特质_<b>玄色</b>空间吧_百度贴吧 关键词：<b>玄色</b>、ð«¸色、色彩学、服饰文化 [gap=2174]Keywords: Black, Reddish Yellow, Chromatics, Culture in"
+								]
+							},
+							"value": "玄色",
+							"support": 898,
+							"url": ""
+						}
+					]
+				},
+				{
+					"key": "Black Friday",
+					"key-speech": "Black+Friday",
+					"trans": [
+						{
+							"value": "黑色星期五"
+						},
+						{
+							"value": "玄色礼拜五"
+						}
+					]
+				},
+				{
+					"key": "Black Swan",
+					"key-speech": "Black+Swan",
+					"trans": [
+						{
+							"value": "黑天鹅"
+						},
+						{
+							"value": "黑鹄鹅"
+						},
+						{
+							"value": "乌天鹅"
+						}
+					]
+				},
+				{
+					"key": "black cat",
+					"key-speech": "black+cat",
+					"trans": [
+						{
+							"value": "黑猫"
+						},
+						{
+							"value": "亚克斯"
+						},
+						{
+							"value": "波尔菲德"
+						},
+						{
+							"value": "黑猫原声音乐"
+						}
+					]
+				},
+				{
+					"key": "black tea",
+					"key-speech": "black+tea",
+					"trans": [
+						{
+							"cls": {
+								"cl": [
+									"食品"
+								]
+							},
+							"value": "红茶"
+						},
+						{
+							"value": "祁红"
+						},
+						{
+							"value": "黑茶"
+						},
+						{
+							"value": "黑色的茶"
+						}
+					]
+				},
+				{
+					"key": "Black Widow",
+					"key-speech": "Black+Widow",
+					"trans": [
+						{
+							"value": "黑寡妇"
+						},
+						{
+							"value": "黑未亡人"
+						},
+						{
+							"value": "黑蜘蛛"
+						},
+						{
+							"value": "黑孀妇"
+						}
+					]
+				},
+				{
+					"key": "Men in Black",
+					"key-speech": "Men+in+Black",
+					"trans": [
+						{
+							"value": "黑衣人"
+						},
+						{
+							"value": "黑衣警探"
+						}
+					]
+				},
+				{
+					"key": "black panther",
+					"key-speech": "black+panther",
+					"trans": [
+						{
+							"value": "黑豹党"
+						},
+						{
+							"value": "超级英雄黑豹"
+						}
+					]
+				},
+				{
+					"key": "Black Butler",
+					"key-speech": "Black+Butler",
+					"trans": [
+						{
+							"value": "黑执事"
+						},
+						{
+							"value": "黒执事"
+						},
+						{
+							"value": "黑执事II"
+						},
+						{
+							"value": "第一季"
+						}
+					]
+				},
+				{
+					"key": "black hole",
+					"key-speech": "black+hole",
+					"trans": [
+						{
+							"cls": {
+								"cl": [
+									"天"
+								]
+							},
+							"value": "黑洞"
+						},
+						{
+							"value": "无底洞"
+						},
+						{
+							"value": "神秘失踪的地方"
+						},
+						{
+							"value": "坍缩星"
+						}
+					]
+				}
+			]
+		},
+		"Phiên dịch chuyên nghiệp (专业释义)": {
+			"summary": {
+				"sources": {
+					"source": {
+						"site": "NoteExpress",
+						"url": "https://dict.youdao.com"
+					}
+				},
+				"text": "以上统计来源于2,447,534篇论文数据，部分数据来源于"
+			},
+			"co-add": "https://dict.youdao.com",
+			"total": "2,447,543",
+			"entries": [
+				{
+					"entry": {
+						"major": "文学",
+						"trs": [
+							{
+								"tr": {
+									"nat": "黑色",
+									"chnSent": "<b>黑色</b>幽默文学的主要表现形式是小说。",
+									"cite": "266",
+									"docTitle": "黑色幽默研究——背景、渊源、主题、叙述技巧及艺术技巧 ",
+									"engSent": "<b>Black</b> humor literature mainly involves novels.",
+									"url": "youdao"
+								}
+							}
+						],
+						"num": 1
+					}
+				},
+				{
+					"entry": {
+						"major": "法学",
+						"trs": [
+							{
+								"tr": {
+									"nat": "布莱克",
+									"chnSent": "第四部分是对<b>布莱克</b>纯粹法社会学的评价。",
+									"cite": "51",
+									"docTitle": "布莱克纯粹法社会学思想初探",
+									"engSent": "Chapter IV of the <b>Black</b> purely sociological evaluation.",
+									"url": "youdao"
+								}
+							}
+						],
+						"num": 1
+					}
+				},
+				{
+					"entry": {
+						"major": "能源科学技术",
+						"trs": [
+							{
+								"tr": {
+									"nat": "(钢铁等)未抛光的，毛坯的",
+									"cite": "0"
+								}
+							},
+							{
+								"tr": {
+									"nat": "黑的",
+									"cite": "0"
+								}
+							}
+						],
+						"num": 2
+					}
+				},
+				{
+					"entry": {
+						"major": "医药科学",
+						"trs": [
+							{
+								"tr": {
+									"nat": "黑的",
+									"cite": "0"
+								}
+							}
+						],
+						"num": 1
+					}
+				},
+				{
+					"entry": {
+						"major": "纺织科学技术",
+						"trs": [
+							{
+								"tr": {
+									"nat": "玄色",
+									"cite": "0"
+								}
+							}
+						],
+						"num": 1
+					}
+				},
+				{
+					"entry": {
+						"major": "计算机科学技术",
+						"trs": [
+							{
+								"tr": {
+									"nat": "黑色",
+									"cite": "0"
+								}
+							}
+						],
+						"num": 1
+					}
+				},
+				{
+					"entry": {
+						"major": "地球科学",
+						"trs": [
+							{
+								"tr": {
+									"nat": "黑色",
+									"cite": "0"
+								}
+							}
+						],
+						"num": 1
+					}
+				},
+				{
+					"entry": {
+						"major": "历史学",
+						"trs": [
+							{
+								"tr": {
+									"nat": "步达生",
+									"cite": "0"
+								}
+							}
+						],
+						"num": 1
+					}
+				}
+			]
+		},
+		"Phiên dịch anh-anh (英英释义)": {
+			"source": {
+				"name": "WordNet",
+				"url": "https://wordnet.princeton.edu"
+			},
+			"word": {
+				"trs": [
+					{
+						"pos": "n.",
+						"tr": [
+							{
+								"tran": "the quality or state of the achromatic color of least lightness (bearing the least resemblance to white)",
+								"similar-words": [
+									"blackness",
+									"inkiness"
+								]
+							},
+							{
+								"examples": [
+									"in the black of night"
+								],
+								"tran": "total absence of light",
+								"similar-words": [
+									"total darkness",
+									"lightlessness",
+									"blackness",
+									"pitch blackness"
+								]
+							},
+							{
+								"tran": "British chemist who identified carbon dioxide and who formulated the concepts of specific heat and latent heat (1728-1799)",
+								"similar-words": [
+									"Joseph Black"
+								]
+							},
+							{
+								"tran": "popular child actress of the 1930's (born in 1928)",
+								"similar-words": [
+									"Shirley Temple Black",
+									"Shirley Temple"
+								]
+							},
+							{
+								"tran": "a person with dark skin who comes from Africa (or whose ancestors came from Africa)",
+								"similar-words": [
+									"Black person",
+									"blackamoor",
+									"Negro",
+									"Negroid"
+								]
+							},
+							{
+								"tran": "(board games) the darker pieces"
+							},
+							{
+								"examples": [
+									"the widow wore black"
+								],
+								"tran": "black clothing (worn as a sign of mourning)"
+							}
+						]
+					},
+					{
+						"pos": "v.",
+						"tr": [
+							{
+								"examples": [
+									"The smoke blackened the ceiling",
+									"The ceiling blackened"
+								],
+								"tran": "make or become black",
+								"similar-words": [
+									"blacken",
+									"melanize",
+									"melanise",
+									"nigrify"
+								]
+							}
+						]
+					},
+					{
+						"pos": "adj.",
+						"tr": [
+							{
+								"examples": [
+									"black leather jackets",
+									"as black as coal",
+									"rich black soil"
+								],
+								"tran": "being of the achromatic color of maximum darkness; having little or no hue owing to absorption of almost all incident light"
+							},
+							{
+								"examples": [
+									"a great people--a black people--...injected new meaning and dignity into the veins of civilization"
+								],
+								"tran": "of or belonging to a racial group having dark skin especially of sub-Saharan African origin"
+							},
+							{
+								"examples": [
+									"black looks",
+									"black words"
+								],
+								"tran": "marked by anger or resentment or hostility"
+							},
+							{
+								"examples": [
+									"black deeds",
+									"a black lie",
+									"his black heart has concocted yet another black deed"
+								],
+								"tran": "stemming from evil characteristics or forces; wicked or dishonorable",
+								"similar-words": [
+									"dark",
+									"sinister"
+								]
+							},
+							{
+								"examples": [
+									"the future looked black"
+								],
+								"tran": "offering little or no hope",
+								"similar-words": [
+									"bleak",
+									"dim"
+								]
+							},
+							{
+								"tran": "(of events) having extremely unfortunate or dire consequences; bringing ruin",
+								"similar-words": [
+									"calamitous",
+									"disastrous",
+									"fatal",
+									"fateful"
+								]
+							},
+							{
+								"examples": [
+									"a face black with fury"
+								],
+								"tran": "(of the face) made black especially as with suffused blood",
+								"similar-words": [
+									"blackened"
+								]
+							},
+							{
+								"examples": [
+									"a black moonless night",
+									"through the pitch-black woods"
+								],
+								"tran": "extremely dark",
+								"similar-words": [
+									"pitch-black",
+									"pitch-dark"
+								]
+							},
+							{
+								"examples": [
+									"black humor"
+								],
+								"tran": "harshly ironic or sinister",
+								"similar-words": [
+									"grim",
+									"mordant"
+								]
+							},
+							{
+								"examples": [
+									"black propaganda"
+								],
+								"tran": "(of intelligence operations) deliberately misleading"
+							},
+							{
+								"examples": [
+									"the black economy pays no taxes"
+								],
+								"tran": "distributed or sold illicitly",
+								"similar-words": [
+									"bootleg",
+									"black-market",
+									"contraband",
+									"smuggled"
+								]
+							},
+							{
+								"examples": [
+									"Man...has written one of his blackest records as a destroyer on the oceanic islands"
+								],
+								"tran": "(used of conduct or character) deserving or bringing disgrace or shame",
+								"similar-words": [
+									"disgraceful",
+									"ignominious",
+									"inglorious",
+									"opprobrious",
+									"shameful"
+								]
+							},
+							{
+								"tran": "(of coffee) without cream or sugar"
+							},
+							{
+								"examples": [
+									"a black knight",
+									"black friars"
+								],
+								"tran": "dressed in black"
+							},
+							{
+								"examples": [
+									"with feet black from playing outdoors",
+									"his shirt was black within an hour"
+								],
+								"tran": "soiled with dirt or soot",
+								"similar-words": [
+									"smutty"
+								]
+							}
+						]
+					}
+				],
+				"phone": "blæk",
+				"speech": "black",
+				"return-phrase": "black"
+			}
+		},
+		"Ví dụ song ngữ (双语例句)": {
+			"sentence-count": 6,
+			"sentence-pair": [
+				{
+					"sentence": "The exhaust streamed black smoke.",
+					"sentence-eng": "The exhaust streamed <b>black</b> smoke.",
+					"sentence-translation": "排气管里冒出黑烟。",
+					"speech-size": "9kb",
+					"source": "《牛津词典》",
+					"url": "https://《牛津词典》/",
+					"sentence-speech": "The+exhaust+streamed+black+smoke.&le=eng"
+				},
+				{
+					"sentence": "Black is out this year.",
+					"sentence-eng": "<b>Black</b> is out this year.",
+					"sentence-translation": "今年黑色不时兴了。",
+					"speech-size": "6kb",
+					"source": "《牛津词典》",
+					"url": "https://《牛津词典》/",
+					"sentence-speech": "Black+is+out+this+year.&le=eng"
+				},
+				{
+					"sentence": "Brown is the new black.",
+					"sentence-eng": "Brown is the new <b>black</b>.",
+					"sentence-translation": "棕色取代了黑色变得时髦起来。",
+					"speech-size": "6kb",
+					"source": "《牛津词典》",
+					"url": "https://《牛津词典》/",
+					"sentence-speech": "Brown+is+the+new+black.&le=eng"
+				}
+			],
+			"more": "blng_sents",
+			"trs-classify": [
+				{
+					"proportion": "100%",
+					"tr": "全部"
+				},
+				{
+					"proportion": "48.8%",
+					"tr": "黑色"
+				},
+				{
+					"proportion": "35.0%",
+					"tr": "黑"
+				},
+				{
+					"proportion": "15.1%",
+					"tr": "黑人"
+				},
+				{
+					"proportion": "0.6%",
+					"tr": "黑市的"
+				},
+				{
+					"proportion": "0.2%",
+					"tr": "乌"
+				},
+				{
+					"proportion": "0.1%",
+					"tr": "布莱克"
+				},
+				{
+					"proportion": "0.1%",
+					"tr": "变黑"
+				},
+				{
+					"proportion": "0.1%",
+					"tr": "黑种人"
+				},
+				{
+					"proportion": "0.1%",
+					"tr": "青"
+				}
+			]
+		},
+		"Ví dụ câu gốc (原声例句)": {
+			"sentence-count": 6,
+			"more": "media_sents",
+			"query": "black",
+			"sent": [
+				{
+					"@mediatype": "audio",
+					"snippets": {
+						"snippet": [
+							{
+								"streamUrl": "https://dict.youdao.com/pureaudio?docid=81070576963145917",
+								"duration": "10000",
+								"swf": "",
+								"name": "special.2009.10.04",
+								"source": "VOA",
+								"win8": "https://dict.youdao.com/pureaudio?docid=81070576963145917&dist=win8"
+							}
+						]
+					},
+					"speech-size": "37kb",
+					"eng": "In the nineteen sixties, a major <b>black</b> civil rights group declared it the national song of <b>black</b> people in America."
+				},
+				{
+					"@mediatype": "video",
+					"snippets": {
+						"snippet": [
+							{
+								"sourceUrl": "youdao",
+								"streamUrl": "movie=http://dict.youdao.com/purevideo?docid=1380238452879734887&auto=true",
+								"swf": "http://shared.ydstatic.com/dict/4.0/simplayer.swf",
+								"imageUrl": "http://dict.youdao.com/pureimage?docid=1380238452879734887",
+								"name": "耶鲁公开课",
+								"source": "1945年后的美国小说课程节选"
+							}
+						]
+					},
+					"chn": "他是黑人，并以犹太人的身份度过一生，这样做受到了家人的反对。<br>",
+					"eng": "He's a <b>black</b> man, and he passes for his whole life as Jewish, and in doing so rejects his family.<br>"
+				},
+				{
+					"@mediatype": "video",
+					"snippets": {
+						"snippet": [
+							{
+								"sourceUrl": "youdao",
+								"streamUrl": "movie=http://dict.youdao.com/purevideo?docid=3167867741807903629&auto=true",
+								"swf": "http://shared.ydstatic.com/dict/4.0/simplayer.swf",
+								"imageUrl": "http://dict.youdao.com/pureimage?docid=3167867741807903629",
+								"name": "布鲁克林的人们",
+								"source": "SpeakingMax英语口语达人"
+							}
+						]
+					},
+					"chn": "我的意思是说，有波兰住宅区，黑人住宅区，<br>",
+					"eng": "I mean, there's, like I said, a Polish neighborhood to, like,  very like, you know, I guess, <b>black</b> neighborhood,<br>"
+				},
+				{
+					"@mediatype": "audio",
+					"snippets": {
+						"snippet": [
+							{
+								"streamUrl": "https://dict.youdao.com/pureaudio?docid=-7761442809413248758",
+								"duration": "8900",
+								"swf": "",
+								"name": "special.2010.03.28",
+								"source": "VOA",
+								"win8": "https://dict.youdao.com/pureaudio?docid=-7761442809413248758&dist=win8"
+							}
+						]
+					},
+					"speech-size": "38kb",
+					"eng": "Some <b>black</b> clergymen said that if <b>black</b> people were supposed to have straight hair, God would have given it to them."
+				},
+				{
+					"@mediatype": "audio",
+					"snippets": {
+						"snippet": [
+							{
+								"streamUrl": "https://dict.youdao.com/pureaudio?docid=-6050269040280893412",
+								"duration": "10500",
+								"swf": "",
+								"name": "special.2009.05.19",
+								"source": "VOA",
+								"win8": "https://dict.youdao.com/pureaudio?docid=-6050269040280893412&dist=win8"
+							}
+						]
+					},
+					"speech-size": "34kb",
+					"eng": "<b>Black</b> cohosh is an herb that comes from the root or underground stems of a tall plant in the buttercup family."
+				}
+			]
+		},
+		"Ví dụ có thẩm quyền (权威例句)": {
+			"sentence-count": 6,
+			"more": "auth_sents",
+			"sent": [
+				{
+					"score": 0.9831453561782837,
+					"speech": "He+doesn%27t+expect+to+see+a+black+leader+of+the+country+in+his+lifetime.+",
+					"speech-size": "21kb",
+					"source": "BBC: <i>Could Britain have a black PM?</i>",
+					"url": "youdao",
+					"foreign": "He doesn't expect to see a <b>black</b> leader of the country in his lifetime. "
+				},
+				{
+					"score": 0.9831452369689941,
+					"speech": "Ultimately%2C+Noble+and+Black+Wolf+say+they%27re+just+happy+to+have+fans+up+and+dancing.+",
+					"speech-size": "24kb",
+					"source": "NPR: <i>Kings Go Forth: Bringing Back Soul</i>",
+					"url": "youdao",
+					"foreign": "Ultimately, Noble and <b>Black</b> Wolf say they're just happy to have fans up and dancing. "
+				},
+				{
+					"score": 0.9831452369689941,
+					"speech": "Black+Wolf%27s+singing+is+timeless%2C+and+the+album%2C+Noble+says%2C+takes+its+cues+from+hip-hop.+",
+					"speech-size": "26kb",
+					"source": "NPR: <i>Kings Go Forth: Bringing Back Soul</i>",
+					"url": "youdao",
+					"foreign": "<b>Black</b> Wolf's singing is timeless, and the album, Noble says, takes its cues from hip-hop. "
+				}
+			]
+		},
+		"Cụm từ từ điển (词典短语)": {
+			"word": "black",
+			"phrs": [
+				{
+					"headword": "black and white",
+					"translation": "白纸黑字；单色；黑白片"
+				},
+				{
+					"headword": "in black",
+					"translation": "穿黑衣服"
+				},
+				{
+					"headword": "carbon black",
+					"translation": "炭黑；碳黑"
+				},
+				{
+					"headword": "black hole",
+					"translation": "n. 黑洞"
+				},
+				{
+					"headword": "black hair",
+					"translation": "黑发"
+				},
+				{
+					"headword": "black tea",
+					"translation": "红茶"
+				},
+				{
+					"headword": "black liquor",
+					"translation": "[化]黑液；纸浆黑液"
+				},
+				{
+					"headword": "black box",
+					"translation": "黑盒子"
+				},
+				{
+					"headword": "black pepper",
+					"translation": "黑胡椒"
+				},
+				{
+					"headword": "in the black",
+					"translation": "赢利；有盈余"
+				},
+				{
+					"headword": "black eye",
+					"translation": "黑眼圈；被打得发青的眼圈；丑事"
+				},
+				{
+					"headword": "in black and white",
+					"translation": "白纸黑字"
+				},
+				{
+					"headword": "black sea",
+					"translation": "黑海；黑海地区"
+				},
+				{
+					"headword": "black cat",
+					"translation": "黑猫（软件名称）"
+				},
+				{
+					"headword": "black market",
+					"translation": "黑市；黑市交易"
+				},
+				{
+					"headword": "black man",
+					"translation": "黑人；小人"
+				},
+				{
+					"headword": "black cherry",
+					"translation": "黑樱桃；野樱桃"
+				},
+				{
+					"headword": "black bear",
+					"translation": "[动]（北美，亚洲）黑熊"
+				},
+				{
+					"headword": "black belt",
+					"translation": "[柔道或空手道]黑带；黑人聚居区"
+				},
+				{
+					"headword": "black horse",
+					"translation": "黑马；黑骏马"
+				}
+			]
+		},
+		"Từ đồng nghĩa (同近义词)": {
+			"synos": [
+				{
+					"pos": "adj.",
+					"ws": [
+						"evil",
+						"ill",
+						"ugly"
+					],
+					"tran": "黑色的；黑人的；邪恶的"
+				},
+				{
+					"pos": "n.",
+					"ws": [
+						"Film-Noir",
+						"jigaboo"
+					],
+					"tran": "黑色；黑人；黑颜料"
+				},
+				{
+					"pos": "vt.",
+					"ws": [
+						"denigrate"
+					],
+					"tran": "使变黑；把鞋油等涂在…上；把（眼眶）打成青肿"
+				},
+				{
+					"pos": "vi.",
+					"ws": [
+						"grow dark"
+					],
+					"tran": "变黑"
+				}
+			],
+			"word": "black"
+		}
+	}
+]

@@ -13,3 +13,10 @@ app.use('/page2', page2Router);
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });
+
+
+
+
+/* API dịch từ tiếng trung sang anh https://www.iciba.com/_next/data/uGKktS1eP3HVzdLazkkJY/word.json?w=简明 
+  https://hanzii.net/search/word/study?hl=en
+*/
